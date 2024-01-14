@@ -1,7 +1,7 @@
 {
   "name": "currencyconvertor",
   "private": true,
-  "homepage": "https://akram02-sde.github.io/Currency-Convertor/",
+  "homepage": "https://akram02-sde.github.io/Currency-Convertor",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
