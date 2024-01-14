@@ -37,12 +37,6 @@ function App() {
         <h1>Currency Convertor</h1>
         <h2 className='text-2xl mt-7 font-sans hover:font-serif'>Please enter your amount</h2>
       </div>
-      <div className="w-50 h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat"
-        style={{
-            backgroundImage: `url('https://img.freepik.com/premium-vector/money-transfer-global-currency_115579-1115.jpg')`,
-        }}>
-
-      </div>
         <div className="w-full">
             <div className="w-full max-w-md mx-auto border border-gray-60 rounded-lg p-5 backdrop-blur-sm bg-white/30">
                 <form
